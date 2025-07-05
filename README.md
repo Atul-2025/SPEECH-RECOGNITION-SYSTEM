@@ -53,3 +53,20 @@ Used for making circuit connections.
 Optional: Bluetooth Module (HC-05) or ESP32 Bluetooth
 
 For remote control or interfacing with mobile apps.
+
+CIRCUIT DIAGRAM
+
+![Image](https://github.com/user-attachments/assets/978902f4-872c-46fb-ab35-056b420ae445)
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4520dffc-64e2-4881-89cf-82ee26c5f8d4)
+
+CONCLUSION 
+
+The Speech Recognition System project showcases the integration of voice control into embedded systems, making human interaction with technology more natural and accessible. This system can recognize specific voice commands and execute corresponding actions, promoting hands-free and efficient control.
+
+It not only enhances user convenience but also opens doors to assistive technologies for individuals with physical disabilities. The project introduces core concepts of voice processing, pattern recognition, and real-time system control. It is scalable and can be expanded to include IoT features, cloud data logging, or AI-based natural language processing for more advanced voice interactions.
+
+This simple yet powerful application bridges the gap between humans and machines and lays the groundwork for future developments in voice-controlled smart environments.
+
